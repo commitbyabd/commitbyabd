@@ -1,5 +1,5 @@
-# 💫 About Me:
-I’m Abdullah, a Full-Stack Developer with experience in building modern, scalable web applications and automation solutions.<br><br>🔭 Currently working on: full-stack web applications and automation projects<br><br>👯 Looking to collaborate on: open-source projects and production-ready web apps<br><br>🤝 Looking for help with: improving system design and performance optimization<br><br>🌱 Currently learning: advanced backend patterns and modern web architectures<br><br>💬 Ask me about:<br>HTML, CSS, JavaScript, Next.js, Node.js, MongoDB, Python, automation & web scraping<br><br>⚡ Fun fact: I enjoy turning complex problems into simple, maintainable solutions
+# Hi,I'm Abdullah
+A Full-Stack Developer with experience in building modern, scalable web applications and automation solutions.<br><br>🔭 Currently working on: full-stack web applications and automation projects<br><br>👯 Looking to collaborate on: open-source projects and production-ready web apps<br><br>🤝 Looking for help with: improving system design and performance optimization<br><br>🌱 Currently learning: advanced backend patterns and modern web architectures<br><br>💬 Ask me about:<br>HTML, CSS, JavaScript, Next.js, Node.js, MongoDB, Python, automation & web scraping<br><br>⚡ Fun fact: I enjoy turning complex problems into simple, maintainable solutions
 
 
 ## 🌐 Socials:
